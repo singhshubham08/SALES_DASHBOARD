@@ -58,6 +58,6 @@ If you found this project useful, feel free to ⭐ the repository and connect wi
 
 ---
 ### 🔗 **Connect with Me**  
-📧 **Email:** [ravishrivastav.da@gmail.com](mailto:ravishrivastav.da@gmail.com)  
-💼 **LinkedIn:** [Ravi K Shrivastav](https://www.linkedin.com/in/ravi-k-shrivastav-5859b0246/)  
-🌐 **GitHub:** [Ravi10300](https://github.com/Ravi10300)
+📧 **Email:** shubham.codespace01@gmail.com
+💼 **LinkedIn:** www.linkedin.com/in/shubham-singh-652018286
+
